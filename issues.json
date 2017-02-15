@@ -491,7 +491,7 @@
     "authorUrl": "http://getify.me",
     "level": "Advanced",
     "info": "Learn and deeply know *all* of JS (not just the 'good parts')",
-    "url": "http://YouDontKnowJS.com",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
     "cover": "img/ydkjs.jpg",
     "tags": [
       "core"
